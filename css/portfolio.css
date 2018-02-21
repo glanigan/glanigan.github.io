@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 21-Feb-2018, 19:26:24
+    Author     : garyl
+*/
+nav{
+    height:60px;
+}
+.navbar-brand{
+    font-family: 'Roboto', sans-serif;
+    font-size: 700;
+    color:#ffffff;
+
+}
+.navbar-nav a{
+    font-family: 'Roboto', sans-serif;
+    font-style: 700;
+    color:#ffffff;
+}
+.bg-primary{
+    background-color: #931621;
+}
