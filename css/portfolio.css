@@ -7,8 +7,14 @@ and open the template in the editor.
     Created on : 21-Feb-2018, 19:26:24
     Author     : garyl
 */
-nav{
+.navbar{
     height:60px;
+    margin-bottom: 0;
+    background:#222222;
+    color:#ffffff;
+}
+.nav-item{
+    color:#ffffff;
 }
 .navbar-brand{
     font-family: 'Roboto', sans-serif;
@@ -21,6 +27,26 @@ nav{
     font-style: 700;
     color:#ffffff;
 }
+
+.jumbotron{
+ 
+    padding-left: 2.5em;
+    padding-right:2.5em;
+    text-align: center;
+}
+.jumbotron-dark{
+    background-color: #222222;
+    color:#ffffff;
+}
+.carousel-caption{
+    background: rgba(20,20,20,0.8);
+}
 .bg-primary{
     background-color: #931621;
+}
+.bg-dark{
+    background-color: #222222;
+}
+.footer{
+    margin-bottom:0;
 }
