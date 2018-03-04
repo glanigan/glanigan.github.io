@@ -1,0 +1,59 @@
+div{
+margin: 0 0 0 0;
+padding: 0 0 0 0;
+}
+.webbot-app{
+	width:300px;
+	height: 300px;
+	border: solid black;
+	background: #eeeeee;
+        position:fixed;
+	right:50px;
+	bottom:0;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.webbot-conversion{
+    overflow-y:scroll;
+    width:100%;
+}
+.webbot.msg{
+	max-width:260px;
+	margin: 0 0 0 0;
+	padding: 2px 2px 2px 2px;
+	color: #ffffff;
+        border-radius: 5%;
+}
+.webbot.msg.msg-bot{
+	background-color: #00b159;
+	left:0;
+}
+.webbot.msg.msg-user{
+	background-color: #d11141;
+	right:0;      
+}
+.webbot msg-box{
+	position:absolute;
+	bottom:0;
+	width:350px;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.webbot.msg-box{
+	position:absolute;
+	bottom:0;
+	left:0;
+	width:100%;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+}
+.webbot.msg-input{
+	position: absolute;
+	width:100%;
+	left:0;
+	bottom:0;
+	margin: 0 0 0 0;
+	padding: 0 0 0 0;
+        background:none;
+        border:none;
+}
